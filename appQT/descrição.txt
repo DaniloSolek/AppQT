@@ -1,0 +1,17 @@
+O programa é um jogo inspirado em um simulador de treinador
+de futebol chamado Brasfoot, para jogar você precisa colocar um
+nome e escolher seu time, para simular, você precisa selecionar
+11 jogadores da lista de jogadores e colocá-los na lista de 
+titulares, então você simula uma partida de cada vez contra um
+adversário.
+
+A definição dos resultados é baseada em um "pedra, papel, tesoura"
+e em sorte, pois você precisa selecionar uma tática de jogo antes
+de cada partida, dependendo da sua escolha, e a escolha gerada pelo
+programa para representar o advesário, você ganha 1 ponto de vantagem
+
+Ataque total supera Equilibrado
+Equilibrado supera Contra-Ataque
+Contra-Ataque supera Ataque Total
+
+Se vencer você ganha 3 pontos, empate = 1 ponto e derrota = 0
